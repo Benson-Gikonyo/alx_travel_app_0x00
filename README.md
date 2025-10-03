@@ -1,0 +1,1 @@
+This project entails the alx travel project. In particular, we explore modelling,, serialization and seeding. 
